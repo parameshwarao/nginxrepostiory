@@ -1,0 +1,5 @@
+github repository link:-   
+
+
+
+to use it download and set the path in conf/nginx.conf and got.conf file present inside the "nginx-1.13.6" folder ,not the one outside.That is the configuration file for your reference.
